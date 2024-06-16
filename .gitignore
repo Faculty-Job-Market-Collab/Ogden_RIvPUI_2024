@@ -1,0 +1,8 @@
+*.pdf
+*.csv
+/data
+/manuscript
+*.xlsx
+*.docx
+*.RData
+*.Rhistory
